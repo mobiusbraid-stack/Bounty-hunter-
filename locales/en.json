@@ -1,0 +1,46 @@
+{
+  "app": {
+    "auth": {
+      "title": "MARS HUNTER GUILD",
+      "desc": "Register your handle to access the Sector 7 Bounty Board.",
+      "placeholder": "Enter Hunter Handle...",
+      "join": "Register / Login"
+    },
+    "cars": {
+      "title": "SELECT YOUR TRANSPORT",
+      "hypercar": "5IR Hypercar",
+      "bike": "Hover-Bike",
+      "horse": "Mech-Steed",
+      "jet": "Strike-Jet",
+      "launch": "DEPLOY TO HIGHWAY"
+    },
+    "hud": {
+      "target": "Target: {target}",
+      "time": "Time: {time}s",
+      "failed": "Bounty Failed!",
+      "bounties": "Bounties Claimed: {count}",
+      "galaxy": "Mars Earth Road - Sector 7",
+      "credits": "Credits: {count} ₢"
+    },
+    "nav": {
+      "chase": "The Chase",
+      "quests": "Bounty Board",
+      "garage": "The Garage"
+    },
+    "quests": {
+      "title": "Active Bounties",
+      "reptilian": "Hunt Reptilian Scout",
+      "draconian": "Assassinate Draconian X (Boss)",
+      "ms": "Intercept MS Smuggler",
+      "reward": "Reward: {amount} ₢",
+      "start": "Accept Quest",
+      "active": "Active Target"
+    },
+    "garage": {
+      "title": "The Garage",
+      "buyBoerboel": "Boerboel Guardian (500 ₢) - Auto-fires every 3s",
+      "buyCoffee": "Dyson Overclock (200 ₢) - Double Credit drops",
+      "purchased": "Purchased!"
+    }
+  }
+}
